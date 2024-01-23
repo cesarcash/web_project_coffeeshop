@@ -17,7 +17,7 @@
   gap: 16px;
 }
 
-.card__list_item {
+.card__list-item {
   display: flex;
   justify-content: space-between;
   font-family: 'Noto Serif', 'Times New Roman', serif;
